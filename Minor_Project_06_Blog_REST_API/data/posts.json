@@ -1,0 +1,29 @@
+[
+  {
+    "id": "d1c6ac37-89ba-49b1-ace0-52f793658971",
+    "title": "My First Blog",
+    "content": "This is my first blog post.",
+    "authorName": "Shriya",
+    "category": "Technology",
+    "createdDate": "2026-11-19T18:42:59.355Z",
+    "updatedDate": "2026-11-19T18:42:59.355Z"
+  },
+  {
+    "id": "sample-post-001",
+    "title": "Getting Started with Node.js",
+    "content": "Node.js allows JavaScript to run outside the browser and is used to build backend applications.",
+    "authorName": "Demo Author",
+    "category": "Backend Development",
+    "createdDate": "2026-01-10T10:00:00.000Z",
+    "updatedDate": "2026-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "sample-post-002",
+    "title": "Understanding REST APIs",
+    "content": "REST APIs use HTTP methods such as GET, POST, PUT and DELETE to work with resources.",
+    "authorName": "Demo Author",
+    "category": "Web Development",
+    "createdDate": "2026-01-11T10:00:00.000Z",
+    "updatedDate": "2026-01-11T10:00:00.000Z"
+  }
+]

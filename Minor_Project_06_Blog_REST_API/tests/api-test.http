@@ -1,0 +1,23 @@
+### Health
+GET http://localhost:5000/api/health
+
+### Get all posts
+GET http://localhost:5000/api/posts
+
+### Create
+POST http://localhost:5000/api/posts
+Content-Type: application/json
+
+{"title":"Learning Express","content":"Express helps build REST APIs.","authorName":"Student","category":"Node.js"}
+
+### Get one (replace ID)
+GET http://localhost:5000/api/posts/POST_ID
+
+### Update (replace ID)
+PUT http://localhost:5000/api/posts/POST_ID
+Content-Type: application/json
+
+{"title":"Updated Express Blog"}
+
+### Delete (replace ID)
+DELETE http://localhost:5000/api/posts/POST_ID
